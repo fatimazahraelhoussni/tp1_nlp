@@ -11,5 +11,6 @@ Ce référentiel contient une série de travaux pratiques sur le Traitement du L
 - **TP1 : Tokenisation et Prétraitement**
 - **TP2 : Word Embedding avec Word2Vec**
 - **TP3 : NLP Classification de texte**
+-  **TP4 : Projet Chatbot avec RASA**
 
 Chaque TP est organisé dans son propre répertoire et contient les fichiers nécessaires ainsi que des instructions pour les exercices pratiques.
